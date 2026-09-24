@@ -35,25 +35,25 @@ Parameters:
 Executables:
 - name: Microsoft Word
   file: WINWORD.EXE
-  path: Program Files/Microsoft Office/root/Office16/WINWORD.EXE
+  path: "Program Files/Microsoft Office/root/Office16/WINWORD.EXE"
 - name: Microsoft Excel
   file: EXCEL.EXE
-  path: Program Files/Microsoft Office/root/Office16/EXCEL.EXE
+  path: "Program Files/Microsoft Office/root/Office16/EXCEL.EXE"
 - name: Microsoft PowerPoint
   file: POWERPNT.EXE
-  path: Program Files/Microsoft Office/root/Office16/POWERPNT.EXE
+  path: "Program Files/Microsoft Office/root/Office16/POWERPNT.EXE"
 - name: Microsoft Outlook
   file: OUTLOOK.EXE
-  path: Program Files/Microsoft Office/root/Office16/OUTLOOK.EXE
+  path: "Program Files/Microsoft Office/root/Office16/OUTLOOK.EXE"
 - name: Microsoft OneNote
   file: ONENOTE.EXE
-  path: Program Files/Microsoft Office/root/Office16/ONENOTE.EXE
+  path: "Program Files/Microsoft Office/root/Office16/ONENOTE.EXE"
 - name: Microsoft Access
   file: MSACCESS.EXE
-  path: Program Files/Microsoft Office/root/Office16/MSACCESS.EXE
+  path: "Program Files/Microsoft Office/root/Office16/MSACCESS.EXE"
 - name: Microsoft Publisher
   file: MSPUB.EXE
-  path: Program Files/Microsoft Office/root/Office16/MSPUB.EXE
+  path: "Program Files/Microsoft Office/root/Office16/MSPUB.EXE"
 
 Steps:
 - action: run_script
